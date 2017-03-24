@@ -1,0 +1,10 @@
+{
+   "manifest_version": 2,
+   "name": "New Tab DOTA 2 Hero Picker",
+   "version": "1.0",
+   "author": "Hanna Liebl",
+    "description": "Let this extension pick your next DOTA 2 hero to play.",
+   "chrome_url_overrides" : {
+     "newtab": "index.html"
+   }
+ }
